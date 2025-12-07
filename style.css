@@ -1,0 +1,59 @@
+#hero{
+    background-color: rgb(46, 33, 33);
+    font-family: Arial,  sans-serif;
+    color: aliceblue;
+    padding: 70px 70px;
+    
+}
+#hero-section h1{
+text-align: center;
+
+}
+#hero-section p{
+ text-align: center;  
+ margin-left: 300px;
+ margin-right: 300px;
+
+}
+#btn{
+    padding: 8px 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    border: 1px solid black;
+   display: block;
+   margin: auto;
+  
+}
+#hero-img{
+display: flex;
+
+align-items: center;
+background-color: rgb(15, 138, 138);
+margin-left: 300px;
+margin-right: 300px;
+
+}
+#hero-img p{
+    color: aliceblue;
+    clear: both;
+}
+#hero-img h1{
+    color: aliceblue;
+  
+}
+#hero-button{
+     padding: 8px 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    border: 1px solid black;
+   margin: auto;
+   text-decoration: none;
+  
+}
+#hero-image{
+    display: flex;
+flex-direction: column;
+gap: 70px;
+align-items: center;
+}
+
