@@ -1,0 +1,124 @@
+.page4{
+background: #FFFFFF;
+padding:40px ;
+width: 1440;
+height: 740;
+top: 3604px;
+angle: 0 deg;
+opacity: 1;
+
+}
+
+
+
+
+.img-text{
+display: flex;
+}
+.p4card-main{
+    display: flex;
+    gap: 45px;
+    width: 1316;
+height: 260;
+margin-left: 250px;
+angle: 0 deg;
+opacity: 1;
+top: 362px;
+left: 124px;
+
+
+}
+.p4-card , .p4-card2 , .p4-card3{
+width: 470;
+height: 260;
+angle: 0 deg;
+opacity: 1;
+gap: 20px;
+border-radius: 20px;
+padding: 20px;
+background: #FFFFFF;
+border: 2px solid whitesmoke
+
+
+}
+.p4-down{
+ width: 1440;
+height: 499;
+top: 4344px;
+angle: 0 deg;
+opacity: 1;
+   
+}
+.p4-down-section{
+   width: 596;
+height: 271;
+top: 91px;
+left: 422px;
+angle: 0 deg;
+opacity: 1;
+gap: 40px;
+       
+}
+.p4-down-section h6{
+  font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+  width: 108;
+height: 30;
+angle: 0 deg;
+opacity: 1;
+color: #20B15A;
+
+}
+.p4-down-section h6{
+  font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 30px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+color:#000000 ;  
+width: 495;
+height: 90;
+angle: 0 deg;
+opacity: 1;
+
+}
+.p4-down-section p{
+ font-family: Avenir;
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+color: #8B8B8B;   
+}
+.p4-down-section input{
+    width: 596;
+height: 62;
+angle: 0 deg;
+opacity: 1;
+width: 596;
+height: 62;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+border-radius: 14px;
+border-width: 1px;
+padding-top: 20px;
+padding-right: 16px;
+padding-bottom: 20px;
+padding-left: 16px;
+margin-left: 350px;
+}

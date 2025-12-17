@@ -1,0 +1,101 @@
+body{
+    background-color: #90dea0;
+}
+.page2{
+    width: 1440;
+height: 800;
+top: 837px;
+angle: 0 deg;
+opacity: 1;
+width: 1230;
+height: 590;
+top: 67px;
+left: 105px;
+angle: 0 deg;
+opacity: 1;
+gap: 40px;
+margin-left: 105px;
+margin-top: 67px;
+margin-right: 105px;
+background-color: white;
+padding: 40px;
+}
+
+.main{
+ width: 495;
+height: 135;
+angle: 0 deg;
+opacity: 1;
+gap: 15px;
+
+}
+.main p{
+    font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+width: 131;
+height: 30;
+angle: 0 deg;
+opacity: 1;
+
+}
+.main h2{
+    font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 30px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 495;
+height: 90;
+angle: 0 deg;
+opacity: 1;
+
+}
+
+.section-card{
+    width: 1230;
+height: 415;
+angle: 0 deg;
+opacity: 1;
+gap: 45px;
+display: flex;
+}
+.main-frame{
+    width: 1440;
+height: 420;
+angle: 0 deg;
+opacity: 1;
+top: 1542px;
+background: #FAFFFB;
+display: flex;
+/* margin-left: 491px; */
+margin-right: 291px;
+margin-top: 80px;
+margin-bottom: 80px;
+gap: 70px;
+}
+.frame-left p{
+    font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+width: 160;
+height: 24;
+angle: 0 deg;
+opacity: 1;
+color: #000000;
+
+}
+
+

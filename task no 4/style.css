@@ -1,0 +1,118 @@
+body{
+    width: 1650.60009765625;
+height: 917;
+left: -26px;
+angle: 0 deg;
+opacity: 1;
+background: #D7F5DC;
+}
+
+
+.navbar{
+width: 1440;
+height: 80;
+justify-content: space-between;
+padding-top: 5px;
+padding-right: 100px;
+padding-bottom: 5px;
+padding-left: 100px;
+display: flex;
+}
+.menu{
+width: 118;
+height: 44;
+gap: 10px;
+padding: 10px;
+display: flex;
+gap: 20px;
+color: aliceblue;
+}
+.button{
+width: 105;
+height: 44;
+gap: 20px;
+padding: 10px;
+border-radius: 10px;
+}
+.hero-text h1{
+font-family: Poppins;
+font-weight: 700;
+font-style: Bold;
+font-size: 57.31px;
+leading-trim: NONE;
+line-height: 74.51px;
+letter-spacing: 0%;
+
+}
+hero-text p{
+    font-family: Avenir;
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 472;
+height: 54;
+angle: 0 deg;
+opacity: 1;
+}
+.hero{
+    display: flex;
+    
+}
+.hero-text button{
+    width: 115;
+height: 30;
+width: 175;
+height: 70;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+border-radius: 16px;
+padding-top: 20px;
+padding-right: 30px;
+padding-bottom: 20px;
+padding-left: 30px;
+background: #20B15A;
+font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: aliceblue;
+}
+footer{
+   width: 1440;
+height: 120;
+top: 683px;
+angle: 0 deg;
+opacity: 1;
+ background: #F8FFF9;
+justify-content: space-between;
+}
+.footer-box{
+    width: 1181.93017578125;
+height: 31.36347770690918;
+top: 44px;
+left: 115px;
+angle: 0 deg;
+opacity: 1;
+display: flex;
+gap: 60px;
+}
+.hero-img{
+    width: 672;
+height: 564;
+top: 119px;
+left: 678px;
+angle: 0 deg;
+opacity: 1;
+display: flex;
+margin-top: 119px;
+margin-left: 678px;
+margin-right: 90px;
+margin-bottom: 177;
+}
